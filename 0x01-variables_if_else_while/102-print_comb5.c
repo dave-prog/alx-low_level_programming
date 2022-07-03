@@ -12,7 +12,7 @@ int main(void)
 
 	for (first_t = 0; first_t <= 9; first_t++)
 	{
-		for (first_u = first_t = 1; first_u <= 9; first_u++)
+		for (first_u = 0; first_u <= 9; first_u++)
 		{
 			for (second_t = first_t; second_t <= 9; second_t++)
 			{
@@ -34,5 +34,6 @@ int main(void)
 		}
 	}
 	putchar('\n');
+
 	return (0);
 }
