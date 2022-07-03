@@ -14,7 +14,7 @@ int main(void)
 	{
 		for (first_u = 0; first_u <= 9; first_u++)
 		{
-			for (second_t = first_t; second_t <= 9; second_t++)
+			for (second_t = 0; second_t <= 9; second_t++)
 			{
 				for (second_u = first_u + 1; second_u <= 9; second_u++)
 				{
