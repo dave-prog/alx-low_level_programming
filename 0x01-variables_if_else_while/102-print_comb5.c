@@ -16,7 +16,7 @@ int main(void)
 		{
 			for (second_t = 0; second_t <= 9; second_t++)
 			{
-				for (second_u = first_u + 1; second_u <= 9; second_u++)
+				for (second_u = second_t + 1; second_u <= 9; second_u++)
 				{
 					putchar(first_t + '0');
 					putchar(first_u + '0');
