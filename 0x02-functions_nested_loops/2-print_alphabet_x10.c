@@ -11,8 +11,7 @@ void print_alphabet_x10(void)
 	char alpha;
 	int times;
 
-	times = 0;
-
+	times = 1;
 	while (times <= 10)
 	{
 		alpha = 'a';
