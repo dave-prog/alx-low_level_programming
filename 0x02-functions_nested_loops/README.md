@@ -18,4 +18,6 @@
 ## 5. Sign
 > A function that prints the sign of a number.
 
+## 6. Absolute Value
+> A function that computes the absolute value of an integer.
 
