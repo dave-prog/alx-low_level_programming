@@ -36,4 +36,7 @@
 ## 11. 98Battery Street, the OG
 > A function that prints all natural numbers from n to 98.
 
+## 12. Multiplication Table
+> A function that prints the n times table, starting with 0.
+
 
