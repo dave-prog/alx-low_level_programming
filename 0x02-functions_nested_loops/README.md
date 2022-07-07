@@ -39,4 +39,7 @@
 ## 12. Multiplication Table
 > A function that prints the n times table, starting with 0.
 
+## 13. Natural Numbers
+> List of all natural numbers below 10 that are multiples of 3 0r 5.
+
 
