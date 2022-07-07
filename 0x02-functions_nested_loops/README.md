@@ -48,4 +48,7 @@
 ## 15. Fibonacci Numbers II
 > A program that generates a fibonnaci sequence by adding the previous two terms.
 
+## 16. Fibonacci Numbers III
+> A program that finds and prints the first 98 fibonacci numbers, starting with 1 and 2.
+
 
