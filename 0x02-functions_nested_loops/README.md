@@ -24,3 +24,7 @@
 ## 7. There are only 3 colors, 10 digits, and 7 notes
 > A function that prints the last digit of a number.
 
+## 8. Jack Bauer
+> A function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
+
+
