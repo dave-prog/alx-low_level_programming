@@ -12,3 +12,7 @@
 ## 3. islower
 > A function that checks for lowercase character.
 
+## 4. isalpha
+> A function that checks for alphabetic character.
+
+
