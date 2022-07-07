@@ -29,3 +29,8 @@
 
 ## 9. Times Table
 > A function that prints the 9 times table, starting with 0.
+
+## 10. X + Y
+> A function that adds two integers.
+
+
