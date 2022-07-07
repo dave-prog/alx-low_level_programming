@@ -33,4 +33,7 @@
 ## 10. X + Y
 > A function that adds two integers.
 
+## 11. 98Battery Street, the OG
+> A function that prints all natural numbers from n to 98.
+
 
