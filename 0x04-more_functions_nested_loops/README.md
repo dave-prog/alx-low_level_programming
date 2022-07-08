@@ -29,4 +29,7 @@
 
 ## 9. FizzBuzz
 
+## 10. Triangles
+> A function that prints a triangle, followed by a new line.
+
 
