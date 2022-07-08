@@ -11,3 +11,7 @@
 
 ## The numbers speak for themselves
 > A function that prints the numbers, from 0 to 9, followed by a new line.
+
+## 4. I believe in numbers and signs
+> A function that prints the numbers, from 0 to 9, followed by a new line.
+
