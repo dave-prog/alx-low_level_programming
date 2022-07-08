@@ -24,4 +24,7 @@
 ## 7. I feel like I am diagonally parked in a parallel universe
 > A function that draws a diagonal line on the terminal.
 
+## 8. You are so much sunshine in every square inch
+> A function that prints a square, followed by a new line. 
+
 
