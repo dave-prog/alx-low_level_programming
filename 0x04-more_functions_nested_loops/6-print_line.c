@@ -1,6 +1,6 @@
 #include "main.h"
 
-/** 
+/**
  * print_line - print line
  * @n: function parameter
  * Return: void
