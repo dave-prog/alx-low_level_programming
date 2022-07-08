@@ -32,4 +32,7 @@
 ## 10. Triangles
 > A function that prints a triangle, followed by a new line.
 
+## 11. Prime Factor
 
+## 12. Numbers have life; they're not just symbols on paper
+> A function that prints an integer.
