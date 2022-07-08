@@ -17,3 +17,6 @@
 
 ## 5. Numbers constitute the only universal language
 > A function that prints 10 times the numbers, from 0 to 14, followed by a new line.
+
+## 6. The shortest distance between two points is a straight line
+> A function that draws a straight line in the terminal.
