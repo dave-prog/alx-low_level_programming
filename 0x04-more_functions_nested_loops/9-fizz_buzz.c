@@ -1,4 +1,3 @@
-#include "main.h"
 #include <stdio.h>
 
 /**
@@ -8,7 +7,7 @@
 
 int main(void)
 {
-	char a;
+	int a;
 
 	for (a = 1; a <= 100; a++)
 	{
@@ -27,6 +26,10 @@ int main(void)
 		else
 		{
 			printf("%d", a);
+		}
+		if (a < 100)
+		{
+			printf(" ");
 		}
 	}
 	printf("\n");
