@@ -27,4 +27,6 @@
 ## 8. You are so much sunshine in every square inch
 > A function that prints a square, followed by a new line. 
 
+## 9. FizzBuzz
+
 
