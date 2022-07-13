@@ -18,9 +18,12 @@ void print_rev(char *s)
 		s++;
 	}
 
+	s--;
+
 	for (i = MAX; i > 0; i--)
 	{
-		_putchar(*s--);
+		_putchar(*s);
+		s--;
 	}
 	_putchar('\n');
 }
