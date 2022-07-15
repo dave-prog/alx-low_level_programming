@@ -10,3 +10,12 @@
 - How to use strings and how to manipulate them
 
 - Scope of variables
+
+## Tasks
+### 0. strcat
+- A function that concatenates two strings.
+
+### 1. strncat
+- A function that concatenates two strings and number.
+
+
