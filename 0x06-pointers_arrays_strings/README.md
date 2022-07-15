@@ -33,4 +33,4 @@
 ### Capitalize on what comes
 - A function that capitalizes all words of a string.
 
-
+I
