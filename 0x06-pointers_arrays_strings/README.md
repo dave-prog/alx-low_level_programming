@@ -36,4 +36,7 @@
 ### 8. rot13
 - A function that encodes a string using rot13.I
 
+### Print Numbers
+- A function that prints an integer.
+
 
