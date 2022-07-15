@@ -30,4 +30,7 @@
 ### 5. Always look up
 - A function that changes all lowercase letters of a string to uppercase.
 
+### Capitalize on what comes
+- A function that capitalizes all words of a string.
+
 
