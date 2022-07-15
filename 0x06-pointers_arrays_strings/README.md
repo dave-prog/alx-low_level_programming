@@ -16,6 +16,9 @@
 - A function that concatenates two strings.
 
 ### 1. strncat
-- A function that concatenates two strings and number.
+- A function that concatenates two strings using number of bytes.
+
+### 2. strncpy
+- A function that copies a string using number of bytes.
 
 
