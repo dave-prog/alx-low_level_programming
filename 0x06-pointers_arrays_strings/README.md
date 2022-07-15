@@ -24,4 +24,7 @@
 ### 3. strcmp
 - A function that compares two strings.
 
+### 4. Reversing an Array
+- A function that reverses the content of an array of integers.
+
 
