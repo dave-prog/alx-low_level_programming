@@ -33,4 +33,7 @@
 ### Capitalize on what comes
 - A function that capitalizes all words of a string.
 
-I
+### 8. rot13
+- A function that encodes a string using rot13.I
+
+
