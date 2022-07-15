@@ -21,4 +21,7 @@
 ### 2. strncpy
 - A function that copies a string using number of bytes.
 
+### 3. strcmp
+- A function that compares two strings.
+
 
