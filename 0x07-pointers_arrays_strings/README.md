@@ -14,3 +14,6 @@
 
 ### 4. strpbrk
 - A function that searches a string for any set of a set of bytes
+
+### 5. strstr
+- A function that locates a substring.
