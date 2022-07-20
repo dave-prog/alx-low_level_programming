@@ -10,3 +10,6 @@
 
 ### 2. print length of string
 - A function that returns the length of a string.
+
+### 3. Factorial
+- A function that returns the factorial of a given number.
