@@ -20,3 +20,6 @@
 
 ### 6. Chess is mental torture
 - A function that prints the chessboard.
+
+### 7. Diagonals
+- A function that prints the sum of the two diagonals of a square matrix of integers.
